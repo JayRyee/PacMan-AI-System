@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="511971cc-2d45-4e96-9156-d98dbab8298b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1iw8c5wZko2FIviHH3n2TK1lcJ7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="511971cc-2d45-4e96-9156-d98dbab8298b" name="Default Changelist" comment="" />
+      <created>1602807369909</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602807369909</updated>
+      <workItem from="1602807373768" duration="5208000" />
+      <workItem from="1602877972249" duration="7970000" />
+      <workItem from="1603139676880" duration="29715000" />
+      <workItem from="1603645739657" duration="18305000" />
+      <workItem from="1603739119110" duration="15491000" />
+      <workItem from="1605130922951" duration="468000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="645" y="313" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603739040565">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="645" y="313" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1603739040565" />
+    <state x="740" y="473" key="com.intellij.ide.util.TipDialog" timestamp="1605131389105">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="740" y="473" key="com.intellij.ide.util.TipDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1605131389105" />
+    <state x="986" y="360" width="672" height="676" key="search.everywhere.popup" timestamp="1603921758520">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="986" y="360" width="672" height="676" key="search.everywhere.popup/0.0.3440.1400@0.0.3440.1400" timestamp="1603921758520" />
+  </component>
+</project>
